@@ -1,9 +1,9 @@
 -
-  title: Mountains
-  directory: mountains
+  title: Metamaterial analysis and optimization
+  directory: metamaterials
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: metamaterial_optimization.png
+    original: metamaterial_optimization_thumb.png
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - metamaterial_optimization_thumb.png
+    thumbnail: metamaterial_optimization_thumb.png
