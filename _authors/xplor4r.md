@@ -1,9 +1,9 @@
 ---
-name: Sujay Kundu
+name: Vignesh Perumal
 username: xplor4r
-bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
-avatar: xplor4r.png
+bio: "Doctoral Research Fellow, based in Philadelphia, PA"
+site: https://DrVigneshPerumal.github.io
+avatar: drvigneshperumal_crop.png
 email: mail@sujaykundu.com
 social:
     - title: "github"
