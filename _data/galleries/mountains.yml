@@ -1,10 +1,10 @@
-picture_path: mountains
+picture_path: Lattice Analysis
 preview:
-  filename: 1
-  original: 1.jpg
+  filename: metamaterial_optimization
+  original: metamaterial_optimization.png
   sizes:
-  - 1.jpg
-  thumbnail: 1-thumbnail.jpg
+  - metamaterial_optimization.png
+  thumbnail: metamaterial_optimization.png
 pictures:
 - filename: 1
   original: 1.jpg
