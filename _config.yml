@@ -35,17 +35,17 @@ hero_cover_img: sample_cover.webp # replace this for changing homepage cover (eg
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: FEA Solutions
+              company_logo: FEA Logo.jpg
+              company_url: http://www.fea.co.in/
+              designation: CAE Analyst
+              description: Accelerate design to prototype in the aerospace, biomedical and heavy machinery insudtries using Computer-aided Engineering (CAE).
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Transinov Engitec
+              company_logo: transinov-engitec-logo.jpg
+              #company_url: https://microsoft.com
+              designation: Design Engineer
+              description: DEveloped turnkey solutions for engineering applications.
               visibility: true
 
 # Education
