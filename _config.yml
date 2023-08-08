@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Home
+subtitle: PhD, Mechanical Engineering & Mechanics
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -8,8 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Home
-      url: /
+    #- text: Home
+    #  url: /
     - text: About
       url: /about
     - text: Blog
@@ -31,7 +31,7 @@ author_email: "vignesh.i.perumal@gmail.com"
 author_location: USA
 author_website_url: "https://DrVigneshPerumal.github.io"
 typewrite-text: Advancing Additive Manufacturing with Computational Mechanics, Design Optimization, & Machine Learning
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: sample_cover.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
