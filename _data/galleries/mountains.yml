@@ -11,13 +11,8 @@ pictures:
   sizes:
   - metamaterial_optimization.png
   thumbnail: metamaterial_optimization_thumb.png
-- filename: 2
-  original: 2.jpg
+- filename: metamaterial_optimization2
+  original: metamaterial_optimization2.png
   sizes:
-  - 2.jpg
-  thumbnail: 2-thumbnail.jpg
-- filename: 3
-  original: 3.jpg
-  sizes:
-  - 3.jpg
-  thumbnail: 3-thumbnail.jpg
+  - metamaterial_optimization2.png
+  thumbnail: metamaterial_optimization_thumb2.png
