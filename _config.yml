@@ -16,8 +16,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    #- text: Shop
+    #  url : /shop
     - text: Contact
       url : /contact
 
@@ -51,10 +51,16 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: drexelU.png
-                college_name: Drexel
+                college_name: Drexel University
                 college_url: https://www.drexel.edu
                 college_degree: PhD, MS
                 description: Mechanical Engineering & Mechanics
+                visibility: true
+              - college_logo: UMumbai.webp
+                college_name: University of Mumbai
+                college_url: https://mu.ac.in/
+                college_degree: B. Engg.
+                description: Mechanical Engineering
                 visibility: true
 
 # Projects
