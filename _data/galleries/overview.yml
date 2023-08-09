@@ -7,9 +7,7 @@
     sizes:
     - metamaterial_optimization_thumb.png
     thumbnail: metamaterial_optimization_thumb.png
-
-  title: Design Optimization for Additive Manufacturing
-  directory: metamaterials
+  directory: designoptimization
   preview:
     filename: metamaterial_optimization.png
     original: metamaterial_optimization_thumb.png
