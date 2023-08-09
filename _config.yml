@@ -74,7 +74,7 @@ author_education_details:
 author_project_details:
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
-                project_description: [7] E. Tekerek, V. Perumal, L. Jacquemetton, D. Beckett, H.S. Halliday, B. Wisner, A. Kontsos*, “On the Process of Designing Material Qualification Type Specimens Manufactured using Laser Powder Bed Fusion” Materials & Design (2023) 
+                project_description: 7. E. Tekerek, V. Perumal, L. Jacquemetton, D. Beckett, H.S. Halliday, B. Wisner, A. Kontsos*, “On the Process of Designing Material Qualification Type Specimens Manufactured using Laser Powder Bed Fusion” Materials & Design (2023) 
     #            project_url: https://gamershub.in
                 visibility: true
 
