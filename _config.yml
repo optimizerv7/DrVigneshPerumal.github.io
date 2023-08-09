@@ -75,43 +75,43 @@ author_project_details:
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 7. E. Tekerek, V. Perumal, L. Jacquemetton, D. Beckett, H.S. Halliday, B. Wisner, A. Kontsos*, “On the Process of Designing Material Qualification Type Specimens Manufactured using Laser Powder Bed Fusion” Materials & Design (2023) 
-                project_url: https://gamershub.in
+                project_url: https://doi.org/10.1016/j.matdes.2023.111893
                 visibility: true
 
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 6. V. Perumal, D. Abueidda, S. Koric, A. Kontsos*, “Temporal convolutional networks for data-driven thermal modeling of directed energy deposition”, Journal of Manufacturing Processes, (2023) 
-                project_url: https://gamershub.in
+                project_url: https://www.researchgate.net/publication/366019087_Temporal_convolutional_networks_for_data-driven_thermal_modeling_of_directed_energy_deposition
                 visibility: true
 
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 5. R. Yavari, A. Riensche, E. Tekerek, L. Jacquemetton, H. Halliday, M. Vandever, A. Tenequer, V. Perumal, A. Kontsos, Z. Smoqi, K. Cole, P. Rao*, “Digitally twinned additive manufacturing- Detecting flaws in laser powder bed fusion by combining thermal simulations with in-situ meltpool sensor data”, Materials & Design (2021)
-                project_url: https://gamershub.in
+                project_url: https://doi.org/10.1016/j.matdes.2021.110167
                 visibility: true
 
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 4. V. Perumal, A. Najafi*, A. Kontsos*, “A Novel Digital Design Approach for Metal Additive Manufacturing to Address Local Thermal Effects”, Designs (2020) 
-                project_url: https://gamershub.in
+                project_url: https://doi.org/10.3390/designs4040041
                 visibility: true
 
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 3. P. Wadekar, V. Perumal, G. Dion, A. Kontsos, D. Breen*, “An optimized yarn-level geometric model for Finite Element Analysis of weft-knitted fabrics”, Computer Aided Geometric Design, (2020)  
-                project_url: https://gamershub.in
+                project_url: https://www.researchgate.net/publication/341467582_An_Optimized_Yarn-Level_Geometric_Model_for_Finite_Element_Analysis_of_Weft-Knitted_Fabrics
                 visibility: true
 
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 2. B. Wisner, P. Potstada, V. Perumal, K. Baxevanakis, M. G. R. Sause and A. Kontsos*, “Progressive Failure Monitoring and Analysis in Aluminum by In Situ Nondestructive Evaluation”, Fatigue & Fracture of Engineering Materials & Structures, (2019)  
-                project_url: https://gamershub.in
+                project_url: https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/58634/file/58634.pdf
                 visibility: true
                 
               - project_thumbnail: blank.png
         #        project_title: Hack4r
                 project_description: 1. B.J. Wisner, K. Mazur, V. Perumal, K. Baxevanakis, L. An, G. Feng and A. Kontsos*, “Acoustic Emission Signal Processing Framework to Identify Fracture in Aluminum Alloys”, Engineering Fracture Mechanics, (2018) 
-                project_url: https://doi.org/10.1016/j.engfracmech.2018.04.027
+                project_url: https://www.researchgate.net/publication/324802120_Acoustic_Emission_Signal_Processing_Framework_to_Identify_Fracture_in_Aluminum_Alloys
                 visibility: true
 
 
