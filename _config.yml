@@ -37,7 +37,7 @@ hero_cover_img: sample_cover.webp # replace this for changing homepage cover (eg
 author_work_experiences:
             - company_name: Drexel University (worked with TAMG & MCMB- two of the leading groups at Drexel focused on AM and Design)
               company_logo: drexelU.png
-              company_url: "[TAMG](https://tamg.mem.drexel.edu/)", "[MCMB](https://research.coe.drexel.edu/mem/mcmb/)"
+              company_url: https://tamg.mem.drexel.edu/, https://research.coe.drexel.edu/mem/mcmb/
               designation: Doctoral Research Fellow
               description: Combine data-driven modeling, design optimization, and computational mechanics to improve performance of metal AM parts.
               visibility: true
