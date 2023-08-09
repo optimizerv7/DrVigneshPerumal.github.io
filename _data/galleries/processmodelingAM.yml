@@ -1,0 +1,13 @@
+picture_path: processmodelingAM
+preview:
+  filename: processmodeling_results
+  original: processmodeling_results.png
+  sizes:
+  - processmodeling_results.png
+  thumbnail: processmodeling_results_thumb.png
+pictures:
+- filename: processmodeling_results
+  original: processmodeling_results.png
+  sizes:
+  - processmodeling_results.png
+  thumbnail: processmodeling_results_thumb.png
