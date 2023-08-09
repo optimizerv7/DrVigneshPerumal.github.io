@@ -264,7 +264,7 @@ header {
     background-color: #000 !important;
     border: 1px solid #020305 !important;
     border-radius: .25rem;
-    max-width: 100%;
+    max-width: 1%;
     height: auto;
     margin: 15px;
 }
@@ -606,14 +606,14 @@ header {
     margin-top: 20px !important;
 }
 .project_thumbnail{
-    text-align: center;
+    text-align: left;
 }
 .project-img{
     width:1px;
     height:1px;
 }
 .project_details{
-    padding: 100px;
+    padding: 10px;
 }
 .project_links {
     margin: 4px;

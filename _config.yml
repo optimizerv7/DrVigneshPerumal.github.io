@@ -108,7 +108,7 @@ author_project_details:
     #            project_url: https://gamershub.in
                 visibility: true
                 
-              - project_thumbnail: hack4r.PNG
+              - project_thumbnail: blank.png
         #        project_title: Hack4r
                 project_description: 1. B.J. Wisner, K. Mazur, V. Perumal, K. Baxevanakis, L. An, G. Feng and A. Kontsos*, “Acoustic Emission Signal Processing Framework to Identify Fracture in Aluminum Alloys”, Engineering Fracture Mechanics, (2018) 
          #       project_url: https://hack4r.com
