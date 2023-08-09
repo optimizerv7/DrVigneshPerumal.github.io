@@ -44,7 +44,7 @@ author_work_experiences:
               visibility: true
             - company_name: FEA Solutions
               company_logo: FEA Logo.jpg
-            #  company_url: http://www.fea.co.in/
+              company_url: http://www.fea.co.in/
               designation: CAE Analyst
               description: Accelerate design to prototype in the aerospace, biomedical and heavy machinery insudtries using Computer-aided Engineering (CAE).
               visibility: true
