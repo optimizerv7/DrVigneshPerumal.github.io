@@ -105,13 +105,13 @@ author_project_details:
               - project_thumbnail: blank.png
   #              project_title: Gamers Hub
                 project_description: 2. B. Wisner, P. Potstada, V. Perumal, K. Baxevanakis, M. G. R. Sause and A. Kontsos*, “Progressive Failure Monitoring and Analysis in Aluminum by In Situ Nondestructive Evaluation”, Fatigue & Fracture of Engineering Materials & Structures, (2019)  
-    #            project_url: https://gamershub.in
+                project_url: https://gamershub.in
                 visibility: true
                 
               - project_thumbnail: blank.png
         #        project_title: Hack4r
                 project_description: 1. B.J. Wisner, K. Mazur, V. Perumal, K. Baxevanakis, L. An, G. Feng and A. Kontsos*, “Acoustic Emission Signal Processing Framework to Identify Fracture in Aluminum Alloys”, Engineering Fracture Mechanics, (2018) 
-                project_url: [Link](https://doi.org/10.1016/j.engfracmech.2018.04.027)
+                project_url: https://doi.org/10.1016/j.engfracmech.2018.04.027
                 visibility: true
 
 
