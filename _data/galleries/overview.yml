@@ -9,12 +9,12 @@
     thumbnail: metamaterial_optimization_thumb.png
 
 -
-  title: 2. Design optimization for additive manufacturing
+  title: 2. Process modeling for additive manufacturing (1 image)
   directory: processmodelingAM
   preview:
-    filename: metamaterial_optimization.png
-    original: metamaterial_optimization_thumb.png
+    filename: processmodeling_results.png
+    original: processmodeling_results_thumb.png
     sizes:
-    - metamaterial_optimization_thumb.png
-    thumbnail: metamaterial_optimization_thumb.png
+    - processmodeling_results_thumb.png
+    thumbnail: processmodeling_results_thumb.png
   
