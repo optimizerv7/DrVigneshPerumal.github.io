@@ -8,8 +8,8 @@
     - metamaterial_optimization_thumb.png
     thumbnail: metamaterial_optimization_thumb.png
 
-  title: Metamaterial structural analysis and optimization
-  directory: metamaterials
+  title: Design Optimization for Additive Manufacturing
+  directory: designoptimization
   preview:
     filename: metamaterial_optimization.png
     original: metamaterial_optimization_thumb.png
