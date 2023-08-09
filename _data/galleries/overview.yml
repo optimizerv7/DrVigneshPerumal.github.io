@@ -7,10 +7,4 @@
     sizes:
     - metamaterial_optimization_thumb.png
     thumbnail: metamaterial_optimization_thumb.png
-  directory: designoptimization
-  preview:
-    filename: designoptimization_overview.png
-    original: designoptimization_overview_thumb.png
-    sizes:
-    - designoptimization_overview_thumb.png
-    thumbnail: designoptimization_overview_thumb.png
+  

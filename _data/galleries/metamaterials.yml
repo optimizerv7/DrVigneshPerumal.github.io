@@ -1,4 +1,4 @@
-picture_path: mountains
+picture_path: metamaterials
 preview:
   filename: metamaterial_optimization
   original: metamaterial_optimization.png
@@ -16,3 +16,8 @@ pictures:
   sizes:
   - metamaterial_optimization2.png
   thumbnail: metamaterial_optimization_thumb2.png
+- filename: designoptimization_overview
+  original: designoptimization_overview.png
+  sizes:
+  - designoptimization_overview.png
+  thumbnail: designoptimization_overview_thumb.png
