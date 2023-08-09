@@ -14,7 +14,7 @@ urls:
     #  url: /about
     #- text: Blog
     #  url: /blog
-    - text: Projects
+    - text: Portfolio
       url: /gallery
     #- text: Shop
     #  url : /shop
