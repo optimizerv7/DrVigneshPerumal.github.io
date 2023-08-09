@@ -39,7 +39,7 @@ author_work_experiences:
               company_logo: drexelU.png
             #  company_url: , 
               designation: Doctoral Research Fellow
-              description: Combine data-driven modeling, design optimization, and computational mechanics to improve the performance and quality of metal AM parts.
+              description: Combine data-driven modeling, design optimization, and computational mechanics to improve performance of metal AM parts.
               visibility: true
             - company_name: FEA Solutions
               company_logo: FEA Logo.jpg
