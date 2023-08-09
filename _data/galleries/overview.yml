@@ -1,5 +1,14 @@
 -
-  title: metamaterials
+  title: Metamaterial structural analysis and optimization
+  directory: metamaterials
+  preview:
+    filename: metamaterial_optimization.png
+    original: metamaterial_optimization_thumb.png
+    sizes:
+    - metamaterial_optimization_thumb.png
+    thumbnail: metamaterial_optimization_thumb.png
+
+  title: Metamaterial structural analysis and optimization
   directory: metamaterials
   preview:
     filename: metamaterial_optimization.png
